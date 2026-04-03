@@ -1,37 +1,36 @@
 # Hi, I'm Harsh Singh 👋 
-### Architecting Scalable Microservices & AI-Driven Solutions
+### Full Stack Engineer | Microservices & AI Specialist
 
-I’m a Full Stack Developer specialized in building high-availability backend systems. Currently, I'm focused on distributed systems architecture and optimizing AI integration for performance.
-
----
-
-### 🚀 Featured Engineering
-* **[ParikshaSetu](https://github.com/sengarharsh/ParikshaSetu)** | *Microservices Examination Engine*
-    * Built with **Spring Boot & Eureka**. Implemented a decoupled architecture with API Gateway, ensuring **99.9% system availability**.
-* **[Hire-Track](https://github.com/sengarharsh/Hire-Track)** | *AI Job Match Analysis Platform*
-    * Leveraging **Google Gemini AI** for 90% match accuracy. Optimized data layer with Mongoose indexing to **reduce latency by 30%**.
+I am a Full Stack Developer dedicated to building high-concurrency systems and intelligent web applications. My expertise lies in architecting distributed systems with **Spring Boot** and creating data-driven interfaces with the **MERN stack**.
 
 ---
 
-### 🛠️ Core Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microservices-0052CC?style=for-the-badge&logo=gitbook&logoColor=white" />
-</p>
+### 🛠️ Technical Ecosystem
+
+* **Backend & Architecture:** Java (8/11/17), Spring Boot, Spring Security, Microservices, Eureka Service Discovery, API Gateway, RESTful APIs, JWT & RBAC.
+* **Frontend:** React.js, Redux, JavaScript (ES6+), Tailwind CSS, Bootstrap 5.
+* **Databases & Storage:** MongoDB (Mongoose), MySQL, PostgreSQL, Redis.
+* **DevOps & Tools:** Git/GitHub, Docker, Postman, Maven, NPM.
+* **Problem Solving:** Data Structures & Algorithms, Quantitative Aptitude, Logical Reasoning.
 
 ---
 
-### 📊 Performance Metrics
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=sengarharsh&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sengarharsh&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</p>
+### 🚀 Engineering Highlights
+
+* **[ParikshaSetu](https://github.com/sengarharsh/ParikshaSetu):** Engineered a decoupled examination engine. Implemented **Eureka** for service discovery and **JWT** for secure multi-tenant authentication.
+* **[Hire-Track](https://github.com/sengarharsh/Hire-Track):** Developed an AI-driven recruitment tool. Integrated **Google Gemini AI** for automated resume analysis and achieved a **30% reduction** in data latency through optimized indexing.
 
 ---
 
 ### 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sengarharsh) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sengar-harsh/) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mailsengarharsh@gmail.com)
+
+**Status:** Open to Full Stack & Backend Engineering roles.
+
+---
+
+<p align="center">
+  <b>Building scalable systems today to solve the bottlenecks of tomorrow.</b>
+</p>
