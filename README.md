@@ -1,31 +1,37 @@
 # Hi, I'm Harsh Singh 👋 
-### Full Stack Developer | Spring Boot & Microservices Specialist
+### Architecting Scalable Microservices & AI-Driven Solutions
 
-I build scalable, high-availability systems and AI-driven applications. Currently focused on optimizing enterprise-grade backend architectures.
-
----
-
-### 🚀 Key Projects
-* **[ParikshaSetu](https://github.com/sengarharsh/ParikshaSetu)** - A Microservices Examination Engine built with Spring Boot, Eureka, and JWT. Optimized for 99.9% availability.
-* **[Hire-Track](https://github.com/sengarharsh/Hire-Track)** - AI Job Match Analysis platform using Gemini AI and MERN stack. Reducing data retrieval time by 30%.
+I’m a Full Stack Developer specialized in building high-availability backend systems. Currently, I'm focused on distributed systems architecture and optimizing AI integration for performance.
 
 ---
 
-### 🛠️ Tech Stack
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-blue?style=for-the-badge)
+### 🚀 Featured Engineering
+* **[ParikshaSetu](https://github.com/sengarharsh/ParikshaSetu)** | *Microservices Examination Engine*
+    * Built with **Spring Boot & Eureka**. Implemented a decoupled architecture with API Gateway, ensuring **99.9% system availability**.
+* **[Hire-Track](https://github.com/sengarharsh/Hire-Track)** | *AI Job Match Analysis Platform*
+    * Leveraging **Google Gemini AI** for 90% match accuracy. Optimized data layer with Mongoose indexing to **reduce latency by 30%**.
 
 ---
 
-### 📊 GitHub Stats
-![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sengarharsh&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sengarharsh&layout=compact&theme=radical)
+### 🛠️ Core Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-0052CC?style=for-the-badge&logo=gitbook&logoColor=white" />
+</p>
 
 ---
 
-### 📫 Connect with me
-[LinkedIn](https://linkedin.com/in/sengarharsh) | [Email](mailto:your-email@example.com)
--->
+### 📊 Performance Metrics
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=sengarharsh&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sengarharsh&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</p>
+
+---
+
+### 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sengarharsh) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
